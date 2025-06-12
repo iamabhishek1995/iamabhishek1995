@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**iamabhishek1995/iamabhishek1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![bg][banner]][website]
 
-Here are some ideas to get you started:
+<p id="socialIcons" align="center">
+    <a href="https://www.linkedin.com/in/iamabhishek1995/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[banner]: https://raw.githubusercontent.com/iamabhishek1995/iamabhishek1995/main/banner.jpg
+[website]: <website>
+[github]: https://github.com/iamabhishek1995
+[linkedin]: https://www.linkedin.com/in/iamabhishek1995/
+[hackerrank]: <hackerrank>
+[instagram]: <instagram>
