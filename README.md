@@ -1,8 +1,15 @@
 
-<h1 align="center">Hi 👋, I'm Kumar Abhishek</h1>
 <p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabhishek1995&label=Profile%20views&color=0e75b6&style=flat" alt="iamabhishek1995" /> </p>
 </p>
+
+
+<p>
+<img src="banner.png" alt="Banner" >
+</p>
+
+<h1 align="center">Hi 👋, I'm Kumar Abhishek</h1>
+
 <h3>
 <h4>Professional Summary</h4>
 Results-driven Senior Data Engineer with 8.5+ years of experience designing and implementing data solutions to enhance organizational efficiency and decision-making. Proficient in data engineering, Python, AWS, Databricks, Spark, SQL, Airflow, Hadoop, Kafka, and Jenkins CI/CD pipelines, with a proven ability to develop reliable frameworks for high-quality data management. Expertise in designing scalable data architectures, optimizing data workflows, and improving data accessibility. Recognized for effective collaboration with cross-functional teams to streamline system onboarding and facilitate seamless data integration, leveraging analytics to drive business growth through innovative data strategies.
