@@ -12,7 +12,7 @@ Results-driven Senior Data Engineer with 8.5+ years of experience designing and 
 
 - 🔭 I’m currently working in **Nike**
 
-- - 📫 How to reach me **iamabhishek1995@gmail.com**
+- 📫 How to reach me **iamabhishek1995@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/iamabhishek1995/](https://www.linkedin.com/in/iamabhishek1995/)
 
