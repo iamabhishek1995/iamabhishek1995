@@ -12,13 +12,13 @@ Results-driven Senior Data Engineer with 8.5+ years of experience designing and 
 
 - 🔭 I’m currently working in **Nike**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/iamabhishek1995/](https://www.linkedin.com/in/iamabhishek1995/)
+
 - 👨‍💻 All of my projects are available at [https://iamabhishek1995.github.io/portfolio/](https://iamabhishek1995.github.io/portfolio/)
 
 - 💬 Ask me about **Data Engineering | Data Analysis | DataOps | Python | Databricks | Spark | Airflow | AWS | SQL | System Designing**
 
 - 📫 How to reach me **iamabhishek1995@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/iamabhishek1995/](https://www.linkedin.com/in/iamabhishek1995/)
 
 
 <h4 align="left">Languages and Tools:</h4>
